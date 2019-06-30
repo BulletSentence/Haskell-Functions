@@ -1,5 +1,5 @@
--- Faz a união entre duas listas (A u B)
-[
+-- Faz a união entre duas listas (A u B) --
+
 pertence :: Eq t => t -> [t] -> Bool
 pertence a [] = False
 pertence a (x:z) = if (a == x) then True
