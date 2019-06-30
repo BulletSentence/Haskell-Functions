@@ -1,4 +1,4 @@
-    -- Retorna o tamanho de uma lista (quantidade de elementos) --
+    -- Retorna o tamanho de uma lista (quantidade de elementos da lista) --
     
     tamanho :: [t]->Int
     tamanho [ ] = 0
