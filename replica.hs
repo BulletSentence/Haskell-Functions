@@ -1,5 +1,5 @@
 
--- Replica a palavra -- 
+-- Replica uma palavra uma quantidade n de vezes -- 
 
 rep :: Int->t->[t]
 rep 0 str = []
