@@ -1,4 +1,4 @@
--- Ultimo Elemento de uma Lista -- 
+-- Ultimo Elemento de uma Lista! --
 
 lst :: [t]->[t]
 lst [] = []
